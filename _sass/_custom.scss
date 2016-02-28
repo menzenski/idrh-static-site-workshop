@@ -1,0 +1,18 @@
+.page-nav {
+  font-size: inherit;
+  display: block;
+  width: auto;
+  overflow: hidden;
+
+  a {
+    display: block;
+    width: 100%;
+    float: left;
+    margin: 1em 0;
+  }
+
+  .page-next {
+    text-align: right;
+  }
+
+}
