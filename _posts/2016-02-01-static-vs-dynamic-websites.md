@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Static vs Dynamic Websites"
-date: 2016-02-01 14:40:40 -0600
+title: Static vs Dynamic Websites
+date: "2016-02-01 14:40:40 -0600"
 categories: jekyll
+published: true
 ---
+
 
 * Dynamic websites assemble pages 'on the fly': when a page is needed, a
   template is populated with content from a database.
