@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 # Easy & Sustainable Web Publishing with Plain Text, Jekyll & Github  
