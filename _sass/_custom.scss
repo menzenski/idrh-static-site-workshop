@@ -11,8 +11,12 @@
     margin: 1em 0;
   }
 
+  .page-prev {
+    float: left;
+  }
+
   .page-next {
-    text-align: right;
+    float: right;
   }
 
 }
