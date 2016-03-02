@@ -8,8 +8,8 @@ published: true
 
 ## Easiest to see this in action
 
-https://en.wikipedia.org/wiki/Markdown
-http://dillinger.io
-http://stackedit.io
-http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://en.wikipedia.org/wiki/Markdown  
+http://dillinger.io  
+http://stackedit.io  
+http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html  
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
