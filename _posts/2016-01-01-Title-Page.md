@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Title Page
+title: "Easy & Sustainable Web Publishing with Plain Text, Jekyll & Github"
 date: "2016-01-01 14:40:40 -0600"
 categories: jekyll
 published: true
