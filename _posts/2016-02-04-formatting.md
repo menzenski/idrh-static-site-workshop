@@ -6,4 +6,4 @@ categories: jekyll
 published: true
 ---
 
-## Okay, but then how do you format your text....?
+# Okay, but then how do you format your text....?
