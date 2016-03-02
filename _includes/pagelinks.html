@@ -1,11 +1,11 @@
 <div class="page-nav">
-  <div class="page-prev">
+  <div class="stick-left">
     {% if page.previous.url %}
       <a href="{{ site.baseurl }}{{ page.previous.url }}"
           >&laquo; {{ page.previous.title }}</a>
     {% endif %}
   </div>
-  <div class="page-next">
+  <div class="stick-right">
     {% if page.next.url %}
       <a href="{{ site.baseurl }}{{ page.next.url }}"
           >{{ page.next.title }} &raquo;</a>
