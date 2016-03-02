@@ -7,7 +7,7 @@ published: true
 ---
 
 
-## The Jekyll config.yml file
+# The Jekyll config.yml file
 
 The config file is used for settings that affect your whole blog, values
 which you are expected to set up once and rarely need to edit after that.
