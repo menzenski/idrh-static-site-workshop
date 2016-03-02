@@ -7,7 +7,7 @@ published: true
 ---
 
 
-* Dynamic websites dassemble pages 'on the fly': when a page is needed, a
+* Dynamic websites assemble pages 'on the fly': when a page is needed, a
   template is populated with content from a database.
 
 * Static websites store complete pages. A page doesn't change once it's put
