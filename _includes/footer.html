@@ -6,26 +6,32 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
+
+      {% for author in site.data.authors %}
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li>{{ author.name }}</li>
+          <li>
+            <a href="mailto:{{ author.email }}">{{ author.email }}</a>
+          </li>
         </ul>
+      {% endfor %}
+
       </div>
 
       <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
 
-          {% if site.twitter_username %}
+      {% for author in site.data.authors %}
+        <ul class="social-media-list">
           <li>
-            {% include icon-twitter.html username=site.twitter_username %}
+            {% include icon-github.html username=author.github %}
           </li>
-          {% endif %}
+          <li>
+            {% include icon-twitter.html username=author.twitter %}
+          </li>
         </ul>
+      {% endfor %}
+
+
       </div>
 
       <div class="footer-col footer-col-3">
