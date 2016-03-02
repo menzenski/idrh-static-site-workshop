@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Static vs Dynamic Websites"
-date: 2016-02-01 14:40:40 -0600
+title: "Title Page"
+date: 2016-01-01 14:40:40 -0600
 categories: jekyll
 ---
 
