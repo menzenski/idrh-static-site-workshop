@@ -5,11 +5,11 @@ date: 2016-02-01 14:40:40 -0600
 categories: jekyll
 ---
 
-* Dynamic websites assemble pages 'on the fly': when a page is needed, a
+**Dynamic websites** assemble pages 'on the fly': when a page is needed, a
   template is populated with content from a database.
 
-* Static websites store complete pages. A page doesn't change once it's put
-  on the web server.
+**Static websites** store complete pages. A page doesn't change once it's put
+  on the web server. 
 
 ### Advantages of static sites
 
@@ -22,7 +22,7 @@ categories: jekyll
 
 ### Limitations of static sites
 
-* community-driven sites
+* community-driven sites can be more difficult to maintain
 * forums
 * comments
 * heavy data needs
