@@ -6,7 +6,8 @@ categories: jekyll
 published: true
 ---
 
-## More resources
+
+## More Markdown and Plain Text resources
 
 * Sustainable Authorship in Plain Text Using Pandoc and Markdown  
 http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown
