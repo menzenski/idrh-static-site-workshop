@@ -13,10 +13,11 @@ published: true
 * [stackedit.io][stackedit] 
 
 ***
-
-### Let's Practice
-1. Open your text editor or go to [dillinger.io][dillinger] or [stackedit.io][stackedit]
-2. Create your cv or other documents in markdown
+<div style="background-color:lightblue;">
+<p><strong>Let's Practice</strong><br/>
+1. Open your text editor or go to [dillinger.io][dillinger] or [stackedit.io][stackedit]<br/>
+2. Create your cv or other documents in markdown</p>
+</div>
 
 [wiki]: https://en.wikipedia.org/wiki/Markdown
 [dillinger]: http://www.dillinger.io
