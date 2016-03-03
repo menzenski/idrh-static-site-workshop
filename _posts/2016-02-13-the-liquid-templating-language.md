@@ -14,15 +14,13 @@ Jekyll layouts and included elements use Liquid to render HTML using the markdow
 
 #### Variables
 
-Double curly braces <code class="filter">{{  }}</code> are used to put the contents of a variable or expression into the HTML output. Something will always be put into the HTML at the location of these tags.
+Double curly braces are used to put the contents of a variable or expression into the HTML output. Something will always be put into the HTML at the location of these tags.
 
-Here's a simple example: {{ 1 + 2 }}
-Here's another: {{ site.baseurl }}
+Here's a simple example: {{ site.baseurl }}
 
 <pre>
 <code class="filter">
-Here's a simple example: {{ 1 + 2 }}
-Here's another: {{ site.baseurl }}
+Here's a simple example: {{ site.baseurl }}
 </code>
 </pre>
 
