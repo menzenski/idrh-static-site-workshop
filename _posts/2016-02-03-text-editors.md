@@ -22,6 +22,7 @@ published: true
 * emacs: https://www.gnu.org/software/emacs/
 
 ***
+
 ## _Activity_
 - install a text editor
 - create a file (your CV, or a poem, or a prose, or "about" text for an organization or project)
