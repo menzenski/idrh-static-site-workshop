@@ -32,6 +32,7 @@ Each entry is signaled by a hyphen `-`, and we can iterate over the authors usin
 
 {% for author in site.data.authors %}
 **name:** {{ author.name}}
+
 **twitter:** [@{{ author.twitter }}](https://twitter.com/{{ author.twitter }})
 {% endfor %}
 
@@ -39,6 +40,7 @@ Each entry is signaled by a hyphen `-`, and we can iterate over the authors usin
 <code class="filter">
 {% raw %}{% for author in site.data.authors %}
 **name:** {{ author.name}}
+
 **twitter:** [@{{ author.twitter }}](https://twitter.com/{{ author.twitter }})
 {% endfor %}{% endraw %}
 </code>
