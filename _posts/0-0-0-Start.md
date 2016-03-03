@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Easy & Sustainable Web Publishing with Plain Text, Jekyll & Github"
+title: "Start"
 published: true
 ---
 
