@@ -20,7 +20,9 @@ Here's a simple example: {{ site.baseurl }}
 
 <pre>
 <code class="filter">
+{% raw %}
 Here's a simple example: {{ site.baseurl }}
+{% endraw %}
 </code>
 </pre>
 
