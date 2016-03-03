@@ -24,6 +24,8 @@ Here's a simple example: {{ site.baseurl }}
 </code>
 </pre>
 
+(Bonus question: why does <code class="filter">{% raw %}{{ site.baseurl }}{% endraw %}</code> yield {{ site.baseurl }}?)
+
 ### Logic tags
 
 Curly braces with percent signs <code class="filter">{% raw %}{%  %}{% endraw %}</code> are used to direct logical flow.
