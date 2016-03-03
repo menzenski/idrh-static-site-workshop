@@ -10,19 +10,18 @@ published: true
 ## Some Recommended Text Editors
 
 ### for Mac
-* TextWrangler: http://www.barebones.com/products/textwrangler/
-* Sublime Text: http://www.sublimetext.com/
+* TextWrangler: <http://www.barebones.com/products/textwrangler/>
+* Sublime Text: <http://www.sublimetext.com/>
 
 ### for Windows
-* Sublime Text: http://www.sublimetext.com/
-* Notepad++: https://notepad-plus-plus.org/
+* Sublime Text: <http://www.sublimetext.com/>
+* Notepad++: <https://notepad-plus-plus.org/>
 
 ### for Unix and Advanced users
-* vim: http://www.vim.org/
-* emacs: https://www.gnu.org/software/emacs/
+* vim: <http://www.vim.org/>
+* emacs: <https://www.gnu.org/software/emacs/>
 
 ***
-
 	## **Activity
 	1. install a text editor
 	1. create a file (your CV, or a poem, or a prose, or "about" text for an organization or project)
