@@ -16,5 +16,5 @@ http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-usi
 * Getting Started with Markdown  
 http://programminghistorian.org/lessons/getting-started-with-markdown
 
-* Markdown Cheatsheet
+* Markdown Cheatsheet  
 <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
