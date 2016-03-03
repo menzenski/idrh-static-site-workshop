@@ -14,3 +14,17 @@ published: true
 * designed to facilitate data interchage and easy readability and use
 
 In Jekyll, every post or page will have a **[YAML header](https://jekyllrb.com/docs/frontmatter/)** at the top. It is written in plain text. It contains basic metadata about the page, which also serve as instructions to Jekyll about how to process it or display the content. They work like email headers.
+
+### An Example
+
+<pre>
+<code class="filter">
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2016-03-03 07:27:27 -0600
+categories: jekyll update
+---
+This is the first line of content. Everything between the two --- lines is the header.
+</pre>
+</code>
