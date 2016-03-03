@@ -8,6 +8,7 @@ published: true
 
 
 
+
 ## Some Recommended Text Editors
 
 ### for Mac
@@ -25,6 +26,6 @@ published: true
 ***
 
 ## **Activity
-- install a text editor
-- create a file (your CV, or a poem, or a prose, or "about" text for an organization or project)
-- save w/ a .txt extension
+1. install a text editor
+1. create a file (your CV, or a poem, or a prose, or "about" text for an organization or project)
+1. save w/ a .txt extension
