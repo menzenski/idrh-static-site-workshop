@@ -22,8 +22,8 @@ published: true
 * emacs: <https://www.gnu.org/software/emacs/>
 
 <div style="text-align:center; background-color:lightblue;">
-**Activity**
-1. install a text editor
-1. create a file (your CV, or a poem, or a prose, or "about" text for an organization or project)
-1. save w/ a .txt extension
+<p><strong>Activity</strong><br/>
+1. install a text editor<br/>
+2. create a file (your CV, or a poem, or a prose, or "about" text for an organization or project)<br/>
+3. save w/ a .txt extension</p>
 </div>
