@@ -7,9 +7,6 @@ published: true
 ---
 
 
-
-
-
 ## Some Recommended Text Editors
 
 ### for Mac
