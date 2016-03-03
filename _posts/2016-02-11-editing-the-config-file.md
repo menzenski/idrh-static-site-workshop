@@ -7,7 +7,7 @@ published: true
 ---
 # The Jekyll config.yml file
 
-* The \_config file is used for settings that apply to your whole site and which rarely need to be changed.
+* The \_config file is used for settings that apply to your whole site and rarely need to be changed.
 
 * This includes title of the site, description, as well as [many advanced settings](https://jekyllrb.com/docs/configuration/) about how Jekyll interprets the markdown files, creates URLs, etc.
 
