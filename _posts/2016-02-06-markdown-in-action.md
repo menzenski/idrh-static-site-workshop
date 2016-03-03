@@ -6,7 +6,7 @@ categories: jekyll
 published: true
 ---
 
-## Examples!
+## Examples
 
 * [en.wikipedia.org/wiki/Markdown][wiki]
 * [dillinger.io][dillinger]
@@ -14,11 +14,9 @@ published: true
 
 ***
 
-## Let's Practice!
-
+### Let's Practice
 1. Open your text editor or go to [dillinger.io][dillinger] or [stackedit.io][stackedit]
 2. Create your cv or other documents in markdown
-
 
 [wiki]: https://en.wikipedia.org/wiki/Markdown
 [dillinger]: http://www.dillinger.io
