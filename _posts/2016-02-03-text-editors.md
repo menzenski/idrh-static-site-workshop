@@ -6,10 +6,23 @@ categories: jekyll
 published: true
 ---
 
+
 ## Some Recommended Text Editors
 
-* for Mac: TextWrangler, Sublime Text 2
-* for Windows: Sublime Text 2, Notepad++
-* Activity: 
-	- install a text editor, create a file (your CV, or a poem, or a prose, or "about" text for an organization or project)
-	- save w/ a .txt extension
+### for Mac
+* TextWrangler: http://www.barebones.com/products/textwrangler/
+* Sublime Text: http://www.sublimetext.com/
+
+### for Windows
+* Sublime Text: http://www.sublimetext.com/
+* Notepad++: https://notepad-plus-plus.org/
+
+### for Unix and Advanced users
+* vim: http://www.vim.org/
+* emacs: https://www.gnu.org/software/emacs/
+
+***
+## _Activity_
+- install a text editor
+- create a file (your CV, or a poem, or a prose, or "about" text for an organization or project)
+- save w/ a .txt extension
