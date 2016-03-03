@@ -7,6 +7,7 @@ published: true
 ---
 
 
+
 ## More Markdown and Plain Text resources
 
 * Sustainable Authorship in Plain Text Using Pandoc and Markdown  
@@ -14,3 +15,6 @@ http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-usi
 
 * Getting Started with Markdown  
 http://programminghistorian.org/lessons/getting-started-with-markdown
+
+* Markdown Cheatsheet
+<https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
