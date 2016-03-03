@@ -28,7 +28,7 @@ Here's another: {{ site.baseurl }}
 
 #### Logic
 
-Curly braces with percent signs <code class="filter">{%  %}</code> are used to 
+Curly braces with percent signs <code class="filter">{%</code>  <code class="filter">%}</code> are used to 
 
 [liquid]: http://liquidmarkup.org/
 [shop]: https://github.com/Shopify/liquid
