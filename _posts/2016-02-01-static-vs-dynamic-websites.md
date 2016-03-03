@@ -6,7 +6,8 @@ categories: jekyll
 published: true
 ---
 
-# Static vs Dynamic Websites
+
+## Static vs Dynamic Websites
 
 ### Dynamic websites
 * assemble pages 'on the fly': when a page is needed, a template is populated with content from a database.
@@ -18,12 +19,7 @@ published: true
 
 ### Advantages of static sites
 
-* speed
-* security
-* portability
-* longevity
-* ease of maintenance
-* control
+* speed, security, portability, longevity, ease of maintenance, control
 
 ### Limitations of static sites
 
