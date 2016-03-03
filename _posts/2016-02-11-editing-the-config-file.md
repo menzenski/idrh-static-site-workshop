@@ -7,18 +7,19 @@ published: true
 ---
 
 
+
 # The Jekyll config.yml file
 
-The config file is used for settings that affect your whole blog, values
-which you are expected to set up once and rarely need to edit after that.
+* The \_config file is used for settings that apply to your whole site and which rarely need to be changed.
 
-_config.yml include title, description, as well as many advanced settings about jekyll interprets the markdown files, creates URLs, etc.
+* This includes title of the site, description, as well as [many advanced settings](https://jekyllrb.com/docs/configuration/) about how Jekyll interprets the markdown files, creates URLs, etc.
 
-_config.yml uses the Yaml format.
+* \_config.yml uses the Yaml format.
 
+*** 
 ### Activity
 
-* Using the built-in GitHub editor, edit your config file to add your own name and site information
-* Edit the posts and pages (or index.html). You may want to paste in the content of the markdown files you create earlier.
-* View your pages online
-* Create new pages and posts
+1. **Using the built-in GitHub editor**, edit your config file to add your own name and site information
+1. Edit the posts and pages of your newly forked site. You may want to paste in the content of the markdown files you create earlier.
+1. View your pages online and revise as needed
+1. Create new pages and posts. Remember to use proper filenames, and include yaml frontmatter!
