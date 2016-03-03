@@ -22,7 +22,9 @@ published: true
 * emacs: <https://www.gnu.org/software/emacs/>
 
 ***
-	## **Activity
-	1. install a text editor
-	1. create a file (your CV, or a poem, or a prose, or "about" text for an organization or project)
-	1. save w/ a .txt extension
+~~~
+## **Activity
+1. install a text editor
+1. create a file (your CV, or a poem, or a prose, or "about" text for an organization or project)
+1. save w/ a .txt extension
+~~~
