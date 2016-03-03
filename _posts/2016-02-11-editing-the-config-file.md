@@ -18,5 +18,5 @@ published: true
 1. <em>Using the built-in GitHub editor</em>, edit your config file to add your own name and site information.<br/>
 2. Edit the posts and pages of your newly forked site. You may want to paste in the content of the markdown files you create earlier.<br/>
 3. View your pages online and revise as needed.<br/>
-4. Create new pages and posts. <strong>Remember to use proper filenames, and include yaml frontmatter!</strong><br/>
+4. Create new pages and posts. <strong>Remember to use proper filenames, and include yaml frontmatter!</strong></p>
 </div>
