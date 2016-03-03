@@ -21,7 +21,7 @@ published: true
 * vim: <http://www.vim.org/>
 * emacs: <https://www.gnu.org/software/emacs/>
 
-<div style="text-align:center; background-color:lightblue;">
+<div style="background-color:lightblue;">
 <p><strong>Activity</strong><br/>
 1. install a text editor<br/>
 2. create a file (your CV, or a poem, or a prose, or "about" text for an organization or project)<br/>
