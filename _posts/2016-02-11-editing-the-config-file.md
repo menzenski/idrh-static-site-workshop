@@ -8,6 +8,7 @@ published: true
 
 
 
+
 # The Jekyll config.yml file
 
 * The \_config file is used for settings that apply to your whole site and which rarely need to be changed.
@@ -17,6 +18,7 @@ published: true
 * \_config.yml uses the Yaml format.
 
 *** 
+
 ### Activity
 
 1. **Using the built-in GitHub editor**, edit your config file to add your own name and site information
