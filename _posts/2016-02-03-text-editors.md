@@ -10,16 +10,18 @@ published: true
 ## Some Recommended Text Editors
 
 ### for Mac
-* TextWrangler: <http://www.barebones.com/products/textwrangler/>
-* Sublime Text: <http://www.sublimetext.com/>
+* TextWrangler: [barebones.com/products/textwrangler][tw]
+* Sublime Text: [sublimetext.com][st]
+* Atom: [atom.io][atom]
 
 ### for Windows
-* Sublime Text: <http://www.sublimetext.com/>
-* Notepad++: <https://notepad-plus-plus.org/>
+* Sublime Text: [sublimetext.com][st]
+* Notepad++: [notepad-plus-plus.org][npp]
+* Atom: [atom.io][atom]
 
 ### for Unix and Advanced users
-* vim: <http://www.vim.org/>
-* emacs: <https://www.gnu.org/software/emacs/>
+* vim: [vim.org][vim]
+* emacs: [gnu.org/software/emacs][emacs]
 
 <div style="background-color:lightblue;">
 <p><strong>Activity</strong><br/>
@@ -27,3 +29,10 @@ published: true
 2. create a file (your CV, or a poem, or a prose, or "about" text for an organization or project)<br/>
 3. save w/ a .txt extension</p>
 </div>
+
+[tw]: http://www.barebones.com/products/textwrangler
+[st]: http://www.sublimetext.com
+[atom]: https://atom.io/
+[npp]: https://notepad-plus-plus.org
+[vim]: http://www.vim.org
+[emacs]: https://www.gnu.org/software/emacs/
