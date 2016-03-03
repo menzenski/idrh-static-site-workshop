@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What you will learn today-dd"
+title: "What you will learn today"
 date: "2016-01-01 14:40:40 -0600"
 categories: jekyll
 published: true
