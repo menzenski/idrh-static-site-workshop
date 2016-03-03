@@ -19,7 +19,7 @@ published: true
 
 ### Advantages of static sites
 
-* speed, security, portability, longevity, ease of maintenance, control
+* speed, security, portability, longevity, ease of maintenance, (version) control
 
 ### Limitations of static sites
 
