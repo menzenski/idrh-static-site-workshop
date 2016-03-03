@@ -8,13 +8,18 @@ published: true
 
 ## Examples!
 
-[https://en.wikipedia.org/wiki/Markdown]
-<http://dillinger.io>  
-<http://stackedit.io>  
+* [en.wikipedia.org/wiki/Markdown][wiki]
+* [dillinger.io][dillinger]
+* [stackedit.io][stackedit] 
 
 ***
 
 ## Let's Practice!
 
-1. Open your text editor or go to <dillinger.io> or <stackedit.io>
+1. Open your text editor or go to [dillinger.io][dillinger] or [stackedit.io][stackedit]
 2. Create your cv or other documents in markdown
+
+
+[wiki]: https://en.wikipedia.org/wiki/Markdown
+[dillinger]: http://www.dillinger.io
+[stackedit]: http://stackedit.io
