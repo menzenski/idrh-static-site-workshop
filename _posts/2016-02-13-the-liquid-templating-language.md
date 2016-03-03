@@ -14,7 +14,7 @@ Jekyll layouts and included elements use Liquid to render HTML using the markdow
 
 #### Variables
 
-Double curly braces `{{  }}` are used to put the contents of a variable or expression into the HTML output.
+Double curly braces <code class="filter">{{  }}</code> are used to put the contents of a variable or expression into the HTML output.
 
 Here's a simple example: {{ 1 + 2 }}
 Here's another: {{ site.baseurl }}
@@ -28,7 +28,7 @@ Here's another: {{ site.baseurl }}
 
 #### Logic
 
-Curly braces with percent signs `{%  %}` are used to 
+Curly braces with percent signs <code class="filter">{%  %}</code> are used to 
 
 [liquid]: http://liquidmarkup.org/
 [shop]: https://github.com/Shopify/liquid
