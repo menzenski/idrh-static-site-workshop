@@ -24,7 +24,7 @@ published: true
 
 ***
 
-## Activity
+## **Activity
 - install a text editor
 - create a file (your CV, or a poem, or a prose, or "about" text for an organization or project)
 - save w/ a .txt extension
