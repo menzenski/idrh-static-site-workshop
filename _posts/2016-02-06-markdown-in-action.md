@@ -12,10 +12,9 @@ published: true
 * [dillinger.io][dillinger]
 * [stackedit.io][stackedit] 
 
-***
 <div style="background-color:lightblue;">
 <p><strong>Let's Practice</strong><br/>
-1. Open your text editor or go to [dillinger.io][dillinger] or [stackedit.io][stackedit]<br/>
+1. Open your text editor or go to dillinger.io or stackedit.io<br/>
 2. Create your cv or other documents in markdown</p>
 </div>
 
